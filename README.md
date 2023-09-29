@@ -18,3 +18,6 @@ Bound Service
 Output:
 
 ![image](https://github.com/LadvaVishal/MAD_practical_6_21012011043/assets/113240232/303885f2-7043-4bdc-b038-bcc8b7f10819)
+
+![image](https://github.com/LadvaVishal/MAD_practical_6_21012011043/assets/113240232/b3939297-ab3f-474d-9f07-9721206d66ad)
+
